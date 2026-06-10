@@ -8,7 +8,7 @@ cask "control-tower" do
   desc "Menu bar app for monitoring AI coding assistant usage"
   homepage "https://github.com/krishcdbry/ControlTower"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "ControlTower.app"
 
