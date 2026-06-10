@@ -1,6 +1,6 @@
 cask "control-tower" do
-  version "1.0.0-beta.2"
-  sha256 "a5cfa04faaf121bd199cdd61769cf09a4ebe1c6b9ea4064e77fd4e20298dda62"
+  version "1.0.0-beta.3"
+  sha256 "d107d2ac82f60be05f0340fea166fb9b11f91fab0de8b8ed8d69e9e3e5b41d73"
 
   url "https://github.com/krishcdbry/ControlTower/releases/download/v#{version}/ControlTower-#{version}.zip",
       verified: "github.com/krishcdbry/ControlTower/"
