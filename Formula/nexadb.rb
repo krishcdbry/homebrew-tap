@@ -340,7 +340,7 @@ esac
 
       #{yellow}#{bold}🔗 RESOURCES#{reset}
          #{white}Documentation:#{reset} #{cyan}https://github.com/krishcdbry/nexadb#{reset}
-         #{white}Website:#{reset}       #{cyan}https://nexadb.io#{reset}
+         #{white}Website:#{reset}       #{cyan}https://nexadb.dev#{reset}
 
       #{white}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━#{reset}
       #{green}#{bold}   🎉 Ready to build! Run 'nexadb start' to begin   #{reset}

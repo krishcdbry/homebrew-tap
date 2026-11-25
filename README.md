@@ -53,4 +53,4 @@ nexa -u root -p     # Interactive CLI
 
 **Default credentials:** `root` / `nexadb123`
 
-[Repository](https://github.com/krishcdbry/nexadb) | [Website](https://nexadb.io)
+[Repository](https://github.com/krishcdbry/nexadb) | [Website](https://nexadb.dev)
